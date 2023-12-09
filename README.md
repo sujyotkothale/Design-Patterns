@@ -6,7 +6,7 @@ https://slideplayer.com/slide/7393035/
 http://www.cs.unc.edu/~stotts/GOF/hires/chap2.htm
 
 <br>
-<h3>Design Problems We will examine seven problems in Lexi`s design:</h3>
+<h3>Design Problems: We will examine seven problems in Lexi`s design:</h3>
 <br>
 <ol>
   <li>Document structure.</li>
@@ -18,7 +18,7 @@ http://www.cs.unc.edu/~stotts/GOF/hires/chap2.htm
   <li>Spelling checking and hyphenation.</li>
 </ol>
 <br>
-<h3>Summary We've applied eight different patterns to Lexi's design:</h3>
+<h3>Summary: We've applied eight different patterns to Lexi's design:</h3>
 <br>
 <ul>
   <li>Composite: to represent the document's physical structure.</li>
