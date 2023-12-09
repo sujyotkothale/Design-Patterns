@@ -8,7 +8,7 @@ http://www.cs.unc.edu/~stotts/GOF/hires/chap2.htm
 <br>
 ### Summary of unit 6
 <h3>Summary We've applied eight different patterns to Lexi's design:</h3>
-<br><br>
+<br>
 <ul>
   <li>Composite: to represent the document's physical structure.</li>
   <li>Strategy: to allow different formatting algorithms.</li>
