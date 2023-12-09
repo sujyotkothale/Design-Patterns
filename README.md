@@ -6,7 +6,6 @@ https://slideplayer.com/slide/7393035/
 http://www.cs.unc.edu/~stotts/GOF/hires/chap2.htm
 
 <br>
-### Summary of unit 6
 <h3>Summary We've applied eight different patterns to Lexi's design:</h3>
 <br>
 <ul>
