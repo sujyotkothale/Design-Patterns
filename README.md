@@ -6,6 +6,18 @@ https://slideplayer.com/slide/7393035/
 http://www.cs.unc.edu/~stotts/GOF/hires/chap2.htm
 
 <br>
+<h3>Design Problems We will examine seven problems in Lexi`s design:</h3>
+<br>
+<ol>
+  <li>Document structure.</li>
+  <li>Formatting.</li>
+  <li>Embellishing the user interface.</li>
+  <li>Supporting multiple look-and-feel standards.</li>
+  <li>Supporting multiple window systems.</li>
+  <li>User operations.</li>
+  <li>Spelling checking and hyphenation.</li>
+</ol>
+<br>
 <h3>Summary We've applied eight different patterns to Lexi's design:</h3>
 <br>
 <ul>
